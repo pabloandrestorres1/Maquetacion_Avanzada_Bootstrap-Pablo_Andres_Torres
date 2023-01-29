@@ -143,3 +143,8 @@
     background-color: blue;
     color: white;
 }
+
+.container {
+  max-width: 500px;
+}
+
